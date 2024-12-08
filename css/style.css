@@ -70,7 +70,7 @@ justify-content: center;
     display: flex;
     gap: 40px;
 }
-.nav-ul__list-item:nth-last-of-type(1).menu{
+.nav-ul__list-item:nth-of-type(1).menu{
   position: relative;
   color: #404bbf;
 }
